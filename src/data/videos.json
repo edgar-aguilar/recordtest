@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "🏆 ¡Maradona estaría orgulloso! El Nápoles conquista su cuarto Scudetto",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "src": "/videos/video_1.mp4",
+    "slug": "maradona-estaria-orgulloso",
+    "poster": "https://s3.sportstatics.com/relevo/www/multimedia/202505/23/media/cortadas/image[6]-kt5C--606x1080@Relevo.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rafa Mir se cuela en la fiesta de Antony para firmar las tablas",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "src": "/videos/video_2.mp4",
+    "slug": "rafa-mir-se-cuela",
+    "poster": "https://s3.sportstatics.com/relevo/www/multimedia/202505/23/media/cortadas/imageML4K0DU9-U10477401792U0B-U20072561450JBJ-606x1080@Relevo-Relevo.jpg"
+  },
+  {
+    "id": 3,
+    "title": "El beticismo se despide del Villamarín y de 'Antonio de Triana' soñando despierto con la Conference",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "src": "/videos/video_3.mp4",
+    "slug": "el-beticismo-se-despide-del-villamarin",
+    "poster": "https://s2.sportstatics.com/relevo/www/multimedia/202505/23/media/cortadas/antonio-de-triana-U05553581853Dxg-606x1080@Relevo.png"
+  }
+]
